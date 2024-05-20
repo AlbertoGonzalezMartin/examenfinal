@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(0, 217, 255, 0.137);
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p {
+    font-size: 16px;
+    margin: 20px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(255, 0, 0);
+}
